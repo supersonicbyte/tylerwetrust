@@ -1,5 +1,5 @@
 ### halting ¿
-http://mirzaucanbarlic.tech/
+https//tylerwetrust.github.io
 
 <!--
 **tylerwetrust/tylerwetrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
